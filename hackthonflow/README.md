@@ -3,6 +3,16 @@
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
 ## How Do You Plan to Deploy Your Changes?
+![image](https://github.com/user-attachments/assets/9227db49-25bc-463c-a0f8-34c41dd51830)
+![image](https://github.com/user-attachments/assets/44f13ba3-ace5-4ac4-a22e-f9775d56d3b6)
+![image](https://github.com/user-attachments/assets/23864660-d0cf-4fcb-aeb8-1ee69438da5c)
+![image](https://github.com/user-attachments/assets/3d56aa10-d291-4806-8f80-7c28f3fae0fb)
+![image](https://github.com/user-attachments/assets/b04d4c8b-b836-41bf-8a3f-137f74eb8ad0)
+
+
+
+
+
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
 
